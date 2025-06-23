@@ -381,7 +381,7 @@ Authorization: Bearer <access_token>
 
 **Description:** Retrieve, update, or delete specific product
 
-**Permissions:** 
+**Permissions:**
 - GET: Authenticated
 - PUT/DELETE: Product owner (vendor) or Admin
 
@@ -1447,6 +1447,6 @@ Future versions will be accessible via:
 ## Support
 
 For API support and questions:
-- Email: support@eventmanagement.com
+- Email: kumarpriyanshu.py@gmail.com
 - Documentation: [API Docs](http://localhost:8000/api/)
 - Status Page: [API Status](http://status.eventmanagement.com)
